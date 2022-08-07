@@ -1,0 +1,15 @@
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\bin\Debug\Criptografia.exe.config
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\bin\Debug\Criptografia.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\bin\Debug\Criptografia.pdb
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.csprojAssemblyReference.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\MainWindow.g.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\App.g.cs
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia_MarkupCompile.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia_MarkupCompile.lref
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\MainWindow.baml
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.g.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.Properties.Resources.resources
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.csproj.GenerateResource.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.csproj.CoreCompileInputs.cache
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.exe
+C:\Users\vitor\OneDrive\Área de Trabalho\Redes\Criptografia\obj\Debug\Criptografia.pdb

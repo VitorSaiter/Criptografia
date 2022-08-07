@@ -1,0 +1,28 @@
+﻿<Window x:Class="Criptografia.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Criptografia"
+        mc:Ignorable="d"
+        Title="Aplicativo de Criptografia" Height="500" Width="600">
+    <Grid Background="#FFCFCFCF">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="300"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0">
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="txtTexto" Margin="10,40,312,40" BorderBrush="Black" Width="260"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBox x:Name="txtCriptografado" Margin="322,40,10,40" BorderBrush="Black" Width="260"/>
+            </StackPanel>
+        </Grid>
+
+        <Button x:Name="btCriptografar" Content="Criptografar" Margin="50,333,330,-77" Background="#FF787676" FontSize="20" FontWeight="Bold" Click="btCriptografar_Click"/>
+        <Button x:Name="btLimpar" Content="Limpar" Margin="338,333,40,-77" Background="#FF787676" FontSize="20" FontWeight="Bold" Click="btLimpar_Click"/>
+        <Button x:Name="btDescriptografar" Content="Descriptografar" Margin="197,398,183,-142" Background="#FF787676" FontSize="20" FontWeight="Bold" Click="btDescriptografar_Click"/>
+
+    </Grid>
+</Window>
